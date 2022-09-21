@@ -1,0 +1,51 @@
+body{
+    margin:0px;
+    background-image: url(../media/DJI_0364.jpg);
+    }
+
+ 
+    header{
+        padding: px;
+        background-color: rgb(255, 145, 0, 0.98);
+        display: flex;
+       align-items: center;
+        
+    }
+    header p{
+        color:rgb(255, 145, 0, 0.98); ;
+    }
+    a input{
+        width: 60px;
+        height: 30px;
+        border-radius: 7px;
+        background-color: plum;
+        color: white;
+            }
+        
+     a input:hover{
+        transition: 0.5s;
+        width: 70px;
+        height: 35px;
+         background-color: purple;
+        }
+
+        
+    .fondo{
+        position: fixed;
+        width: 1300px;
+        height: 800px;
+        background-color: rgba(255, 255, 255, 0.6);
+        
+    }
+    .fondo h1{
+        text-align: center;
+    }
+
+    .fondo p{
+        margin-left: 200px;
+        margin-right: 200px;
+        font-size: 20px;
+    }
+
+
+

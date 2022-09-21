@@ -1,0 +1,15 @@
+body{
+    margin:0px
+    }
+
+    header{
+        padding: 2px;
+        background-color: rgb(255, 145, 0, 0.98);
+        display: flex;
+       align-items: center;
+        
+    }
+    header p{
+        color:rgb(255, 145, 0, 0.98); ;
+    }
+    
